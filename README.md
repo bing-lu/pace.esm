@@ -1,6 +1,4 @@
-# pace-es
-An updated version of pace.js which works as an es module.
-------
+# pace-es, an updated version of pace.js which works as an es module.
 
 Pace will automatically monitor your Ajax requests, event loop lag, document ready state and elements on your page to decide on the progress.
 
@@ -14,8 +12,8 @@ If you use AMD or Browserify, require pace.js and call `pace.start()` as early i
 
 ```html
 <head>
-  <script src="/pace-es/pace.js"></script>
-  <link href="/pace-es/themes/pace-theme-barber-shop.css" rel="stylesheet" />
+  <script src="./pace-es/pace.js"></script>
+  <link href="./pace-es/themes/pace-theme-barber-shop.css" rel="stylesheet" />
 </head>
 ```
 
