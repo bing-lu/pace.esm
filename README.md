@@ -1,4 +1,4 @@
-# pace-es, an updated version of pace.js which works as an es module.
+# pace-esm, an updated version of pace.js which works as an es module.
 
 Pace will automatically monitor your Ajax requests, event loop lag, document ready state and elements on your page to decide on the progress.
 
