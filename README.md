@@ -12,12 +12,12 @@ If you use AMD or Browserify, require pace.js and call `pace.start()` as early i
 
 ```html
 <head>
-  <script src="./pace-es/pace.js"></script>
-  <link href="./pace-es/themes/pace-theme-barber-shop.css" rel="stylesheet" />
+  <script src="./pace-esm/pace.js"></script>
+  <link href="./pace-esm/themes/pace-theme-barber-shop.css" rel="stylesheet" />
 </head>
 ```
 
 ### Use with React/Vue/Angular
 ```html
-import Pace from 'pace-es/pace.js';
+import Pace from 'pace-esm/pace.js';
 ```
